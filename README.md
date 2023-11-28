@@ -94,3 +94,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
+
+## 💫 About me 
+### **📝 My Blog**
+[수지의 개발일지 : 네이버 블로그](https://blog.naver.com/tnwl9809)
