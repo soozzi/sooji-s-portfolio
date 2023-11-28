@@ -43,7 +43,7 @@
 - 수상내역 : 한이음 ICT 공모전 입선
 
   
-## 1. 개발 환경 및 사용 라이브러리
+#### 1. 개발 환경 및 사용 라이브러리
 - **OS** : Window 10
 - **Language** : Python 3.8, HTML5, JavaScript, CSS
 - **Framework** : Django
@@ -51,12 +51,12 @@
 - **Library** : Python Channels, Web Socket, OpenCV, imutils, dlib
 
  
-## 2. 주요기능   
+#### 2. 주요기능   
 - 졸음감지 및 알림 기능
 - 눈동자 깜빡임 횟수 측정
 - 졸음 통계 제공
 
-## 3. 결과물
+#### 3. 결과물
 **3.1 얼굴인식**   
 ![<얼굴인식>](/00_img/1.png)   
 
