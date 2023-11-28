@@ -1,6 +1,6 @@
 # 오수지(SooJi) 포트폴리오
-## 👨‍💻 Backend Engineer, Web Developer
-### 😀  배움을 즐기는 개발자입니다. 😃
+**👨‍💻 Backend Engineer, Web Developer
+**😀  배움을 즐기는 개발자입니다. 😃
 
 
 ## 🔎 Profile
